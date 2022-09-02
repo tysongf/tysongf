@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyson
-- 👀 I’m interested in NodeJS and MongoDB
-- 🌱 I’m currently learning NodeJS and MongoDB
+- 👀 I’m interested in NodeJS
+- 🌱 I’m currently learning DevOps and Security for NodeJS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: tysongfritz@gmail.com
