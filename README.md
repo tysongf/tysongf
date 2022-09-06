@@ -1,12 +1,9 @@
-Tyson G Fritz - Full Stack Developer
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tyson
 =
-My goal is to continually increase my software design and development skills in order to deliver the best solutions.
-
-I always enjoy discovering new ideas, technologies, and tools.
 
 * 🌍  I'm based in Nanaimo, British Columbia
 * 👀  I'm interested in JavaScript, Node.js, Go, SQL, GraphQL, Apollo, and Docker
-* ✉️  You can contact me at [tysongfritz@gmail.com](mailto:tysongfritz@gmail.com)
+* ✉️  You can contact me at [tysongfritz@gmail.com](mailto:tysongfritz@gmail.com)
 * 🧠  I'm learning DevOps, Security, GraphQL, and React
 * 🤝  I'm open to collaborating on Node.js projects
 
