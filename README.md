@@ -2,9 +2,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =
 
 * 🌍  I'm based in Nanaimo, British Columbia
-* 👀  I'm interested in JavaScript, Node.js, Go, SQL, GraphQL, Apollo, and Docker
+* 👀  I'm interested in JavaScript, Node.js, GraphQL, Apollo, Go, and Docker
 * ✉️  You can contact me at [tysongfritz@gmail.com](mailto:tysongfritz@gmail.com)
-* 🧠  I'm learning DevOps, Security, GraphQL, and React
+* 🧠  I'm learning DevOps, Security, GraphQL, Apollo, and React
 * 🤝  I'm open to collaborating on Node.js projects
 
 <hr>
