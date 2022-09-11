@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🏞 I am based in British Columbia, Canada
 * 💖 I love Node.js, Express.js, MongoDB, and React
-* 🙏 You can reach me at [tysongfritz@gmail.com](mailto:tysongfritz@gmail.com)
+* 🙏 Visit my personal site: <a href="https://www.jstack.ca/" target="_blank">jstack.ca</a>
 
 <hr>
 
