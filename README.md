@@ -57,14 +57,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
          height="40"
       />
    </a>
-   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-         alt="java"
-         width="40"
-         height="40"
-      />
-   </a>
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -86,14 +78,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3>DevOps</h3>
 
 <p align="left">
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-         alt="nodejs"
-         width="40"
-         height="40"
-      />
-   </a>
    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
       <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
@@ -102,10 +86,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
          height="40"
       />
    </a>
-   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-         alt="linux"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+         alt="nodejs"
+         width="40"
+         height="40"
+      />
+   </a>
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+      <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+         alt="docker"
          width="40"
          height="40"
       />
@@ -122,10 +114,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
          height="40"
       />
    </a>
-   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-         alt="docker"
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+         alt="linux"
          width="40"
          height="40"
       />
