@@ -2,8 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =
 
 * 🏞 I am based in British Columbia, Canada
-* 💖 I love Python, Java, PHP, JavaScript, Node.js, Express.js, Socket.io, MongoDB, SQL, Angular, and React
-* 👨‍🔬 I am interested in learning Flask, Django, Nest.js, Nuxt3, Vue.js, Flutter, and React Native
+* 💖 I love JavaScript, Python, Java, PHP, Node, Express, Socket.io, MongoDB, SQL, Vue, Angular, and React
 
 <hr>
 
