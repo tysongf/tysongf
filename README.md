@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =
 
 * 🏞 I am based in British Columbia, Canada
-* 💖 I love JavaScript, Python, Java, PHP, Node, Express, Socket.io, MongoDB, SQL, Vue, Angular, and React
+* 💖 I enjoy working with JavaScript, Go, Python, Java, NodeJS, Express, Socket.io, MongoDB, and Vue
 
 <hr>
 
